@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  TY
+//
+//  Created by anzheng on 2017/5/4.
+//  Copyright © 2017年 anzheng. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "Address.h"
+#import "AllDefinition.h"
+#import <MBProgressHUD.h>
+
+#endif /* PrefixHeader_pch */
